@@ -10,8 +10,13 @@ export default class App extends Component{
 
   render(){
     return(
-      <div>
-        <img src={cronometroImg} alt="Cronômetro"/>
+      <div className="container">
+        <img src={cronometroImg} alt="Cronômetro" className="img"/>
+        <a className="timer">0.0</a>
+        <div className="areaBtn">
+          <a className="btn">Vai</a>
+          <a className="btn">Limpar</a>
+        </div>
       </div>
     )
   }
