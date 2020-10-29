@@ -6,19 +6,28 @@ import cronometroImg from './assets/cronometro.png'
 export default class App extends Component{
   constructor(props){
     super(props)
-    this.state={}
+    this.state={
+      numero: 0
+    }
+
+    this.vai =  this.vai.bind(this)
+    this.limpar = this.limpar.bind(this)
+  }
+
+  vai(){
+    
   }
 
   render(){
     return(
       <div className="container">
         <img src={cronometroImg} alt="Cronômetro" className="img"/>
-        <a className="timer">0.0</a>
+        <a className="timer">{this.state.numero.toFixed(1)}</a>
         <div className="areaBtn">
-          <a className="btn">VAI</a>
-          <a className="btn">LIMPAR</a>
+          <a className="btn" onClick={this.vai}>VAI</a>
+          <a className="btn" onClick={this.limpar}>LIMPAR</a>
         </div>
-      </div>
+      </div>  
     )
   }
 }
