@@ -15,6 +15,9 @@ export default class App extends Component{
   }
 
   vai(){
+
+  }
+  limpar(){
     
   }
 
