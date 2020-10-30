@@ -33,6 +33,6 @@ Esse projeto foi desenvolvido utilizando a seguinte tecnologia:
 - Inicie a aplicação:
    - Rode o comando de inicialização: `yarn start` ou `npm start`
 
-## 💻 Sobre
+## :bookmark: Sobre
 
 Crônometo feito utilizando ReactJs, tendo os botões de 'VAI', que inicia o crônometro, 'PAUSAR', para parar o crônometro e o LIMPAR, que zera a contagem.
