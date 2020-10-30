@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#-tecnologia">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#-sobre">Projeto</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -17,7 +17,19 @@ Esse projeto foi desenvolvido utilizando a seguinte tecnologia:
 
 - [ReactJs](https://pt-br.reactjs.org/)
 
+## :zap: Como usar
 
-## 💻 Projeto
+- Faça um clone desse repositório: `git clone https://github.com/vitorserrano/happy.git`
+- Instale as dependências: `yarn` ou `npm install`
+- Inicie a aplicação:
+   - Rode o comando de inicialização: `yarn start` ou `npm start`
+
+## :fire: **Pré-requisitos**
+
+- [Node.js](https://nodejs.org/en/)
+- [NPM](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
+
+
+## :bookmark: Sobre
 
 Crônometo feito utilizando ReactJs, tendo os botões de 'VAI', que inicia o crônometro, 'PAUSAR', para parar o crônometro e o LIMPAR, que zera a contagem.
