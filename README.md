@@ -20,4 +20,4 @@ Esse projeto foi desenvolvido utilizando a seguinte tecnologia:
 
 ## 💻 Projeto
 
-Crônometo feito utilizando ReactJs, tendo os botões de 'vai', que inicia o crônometro, 'pausar', para parar o crônometro e o limpar, que zera a contagem.
+Crônometo feito utilizando ReactJs, tendo os botões de 'VAI', que inicia o crônometro, 'PAUSAR', para parar o crônometro e o LIMPAR, que zera a contagem.
