@@ -30,6 +30,6 @@ Esse projeto foi desenvolvido utilizando a seguinte tecnologia:
 - [NPM](https://www.npmjs.com/) ou [Yarn](https://yarnpkg.com/)
 
 
-## :bookmark: Sobre
+## 💻 Sobre
 
 Crônometo feito utilizando ReactJs, tendo os botões de 'VAI', que inicia o crônometro, 'PAUSAR', para parar o crônometro e o LIMPAR, que zera a contagem.
