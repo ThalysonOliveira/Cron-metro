@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido utilizando a seguinte tecnologia:
 
 ## :zap: Como usar
 
-- Faça um clone desse repositório: `git clone https://github.com/vitorserrano/happy.git`
+- Faça um clone desse repositório: `git clone https://github.com/ThalysonOliveira/Cronometro.git`
 - Instale as dependências: `yarn` ou `npm install`
 - Inicie a aplicação:
    - Rode o comando de inicialização: `yarn start` ou `npm start`
