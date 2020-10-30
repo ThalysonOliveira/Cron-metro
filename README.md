@@ -4,7 +4,7 @@
   <a href="#-tecnologia">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#pre-requisitos">Pre-requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -33,6 +33,7 @@ Esse projeto foi desenvolvido utilizando a seguinte tecnologia:
 - Inicie a aplicação:
    - Rode o comando de inicialização: `yarn start` ou `npm start`
 
+<a id="sobre"></a>
 ## :bookmark: Sobre
 
 Crônometo feito utilizando ReactJs, tendo os botões de 'VAI', que inicia o crônometro, 'PAUSAR', para parar o crônometro e o LIMPAR, que zera a contagem.
